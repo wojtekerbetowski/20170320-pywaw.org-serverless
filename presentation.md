@@ -1,4 +1,4 @@
-footer: Wojtek Erbetowski, PyWaw, 20.03.2017 t: @erbetowski www:erbetowski.pl 
+footer: Wojtek Erbetowski, PyWaw, 20.03.2017 t: @erbetowski www: erbetowski.pl 
 theme: Ostrich, 6
 [.hide-footer]
 
@@ -59,6 +59,7 @@ Function as a Service [FaaS]
 ---
 Triggers include:
 * SNS
+* CloudWatch
 * HTTP (API Gateway)
 * S3
 * DynamoDB
@@ -172,6 +173,8 @@ Multitenancy
 ---
 and all of the problems of microservices
 
+---
+###Summary
 
 ---
 Sources
