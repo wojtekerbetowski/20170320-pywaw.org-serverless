@@ -165,7 +165,7 @@ Limits
 Python 2.7 :fearful:
 
 ---
-Lack of contenerization
+Lack of containerization
 
 ---
 Multitenancy
